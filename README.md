@@ -1,3 +1,3 @@
 "# FirebaseWebPushNotification" 
 
-Ada notif gada response : (\_(*^*) _/ :  
+Ada notif gada response : (\_(*^*) _/) :  
